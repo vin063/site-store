@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [VerifyContentSuite]">
+  <test thread-count="5" name="VerifyContenttest(failed)">
+    <classes>
+      <class name="com.VerifyLaunchSite.testcases.VerifyContent">
+        <methods>
+          <include name="setup"/>
+          <include name="checkContent"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.VerifyLaunchSite.testcases.VerifyContent -->
+    </classes>
+  </test> <!-- VerifyContenttest(failed) -->
+</suite> <!-- Failed suite [VerifyContentSuite] -->

@@ -1,0 +1,8 @@
+2020-09-07 22:41:31,337 [main] INFO LaunchUrl - Inside Setup method
+2020-09-07 22:41:31,360 [main] INFO LaunchUrl - Launch Website http://www.cnn.co
+2020-09-07 22:41:31,360 [main] INFO LaunchUrl - Website Title CNN - Breaking News, Latest News and Videos
+2020-09-07 22:41:52,706 [main] INFO LaunchUrl - This site can't be reached
+2020-09-08 20:48:35,116 [main] INFO LaunchUrl - Inside Setup method
+2020-09-08 20:48:35,241 [main] INFO LaunchUrl - Launch Website http://www.cnn.com
+2020-09-08 20:48:35,242 [main] INFO LaunchUrl - Website Title CNN - Breaking News, Latest News and Videos
+2020-09-08 20:49:29,354 [main] INFO LaunchUrl - Website is up
