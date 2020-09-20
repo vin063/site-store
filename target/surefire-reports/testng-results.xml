@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="VerifySiteSuite" duration-ms="20668" started-at="2020-09-19T13:02:45 CDT" finished-at="2020-09-19T13:03:05 CDT">
+  <suite name="VerifySiteSuite" duration-ms="32845" started-at="2020-09-19T19:59:52 CDT" finished-at="2020-09-19T20:00:25 CDT">
     <groups>
     </groups>
-    <test name="VerifySitetest" duration-ms="20668" started-at="2020-09-19T13:02:45 CDT" finished-at="2020-09-19T13:03:05 CDT">
+    <test name="VerifySitetest" duration-ms="32845" started-at="2020-09-19T19:59:52 CDT" finished-at="2020-09-19T20:00:25 CDT">
       <class name="com.VerifyLaunchSite.testcases.LaunchUrl">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.VerifyLaunchSite.testcases.LaunchUrl@6536e911]" name="setup" is-config="true" duration-ms="11965" started-at="2020-09-19T13:02:45 CDT" finished-at="2020-09-19T13:02:57 CDT">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.VerifyLaunchSite.testcases.LaunchUrl@6536e911]" name="setup" is-config="true" duration-ms="12838" started-at="2020-09-19T19:59:52 CDT" finished-at="2020-09-19T20:00:05 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.VerifyLaunchSite.testcases.LaunchUrl@6536e911]" name="openUrl" duration-ms="7429" started-at="2020-09-19T13:02:57 CDT" finished-at="2020-09-19T13:03:04 CDT">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.VerifyLaunchSite.testcases.LaunchUrl@6536e911]" name="openUrl" duration-ms="10810" started-at="2020-09-19T20:00:05 CDT" finished-at="2020-09-19T20:00:16 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openUrl -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.VerifyLaunchSite.testcases.LaunchUrl@6536e911]" name="closeBrowser" is-config="true" duration-ms="1225" started-at="2020-09-19T13:03:04 CDT" finished-at="2020-09-19T13:03:05 CDT">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.VerifyLaunchSite.testcases.LaunchUrl@6536e911]" name="closeBrowser" is-config="true" duration-ms="9133" started-at="2020-09-19T20:00:16 CDT" finished-at="2020-09-19T20:00:25 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

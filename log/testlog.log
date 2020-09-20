@@ -10,3 +10,7 @@
 2020-09-19 13:02:57,220 - LaunchUrl -INFO - Launch Website http://www.cnn.com
 2020-09-19 13:02:57,227 - LaunchUrl -INFO - Website Title CNN - Breaking News, Latest News and Videos
 2020-09-19 13:03:04,644 - LaunchUrl -INFO - Website is up
+2020-09-19 20:00:05,263 - LaunchUrl -INFO - Inside Setup method
+2020-09-19 20:00:05,321 - LaunchUrl -INFO - Launch Website http://www.cnn.com
+2020-09-19 20:00:05,330 - LaunchUrl -INFO - Website Title CNN - Breaking News, Latest News and Videos
+2020-09-19 20:00:15,928 - LaunchUrl -INFO - Website is up
